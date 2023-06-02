@@ -1,3 +1,14 @@
-body {
-background-color: #383d58;    
+header{
+    background-color: #000000;
+    color : #FFFFFF;
+    display: flex;
 }
+.cabecalho-imagem{
+width:20%
+}
+.cabecaclho-lista-item{
+display:inline-block;
+margin: 0 16px;
+}
+{
+    
